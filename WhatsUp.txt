@@ -6,3 +6,4 @@ Author: G Britto Joseph
 2.Chat Screen code
 3.Last Seen code
 4. Attachments (Image, Audio, Video)
+Hiding the last seen
