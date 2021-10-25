@@ -7,3 +7,5 @@ Author: G Britto Joseph
 3.Last Seen code
 4. Attachments (Image, Audio, Video)
 Hiding the last seen
+Adding the audio call
+Adding the video call
