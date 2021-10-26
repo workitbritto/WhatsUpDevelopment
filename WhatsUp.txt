@@ -5,7 +5,7 @@ Author: G Britto Joseph
 1. Profile page code
 2.Chat Screen code
 3.Last Seen code
-4. Attachments (Image, Audio, Video)
+4. Attachments (Image, Audio, Video, Documents)
 Hiding the last seen
 Adding the audio call
 Adding the video call
