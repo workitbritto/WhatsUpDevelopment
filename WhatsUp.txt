@@ -10,3 +10,4 @@ Hiding the last seen
 Adding the audio call
 Adding the video call
 Adding status so that the user can play video games
+britto619 adding to see popular videos
