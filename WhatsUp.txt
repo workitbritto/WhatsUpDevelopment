@@ -6,8 +6,9 @@ Author: G Britto Joseph
 2.Chat Screen code
 3.Last Seen code
 4. Attachments (Image, Audio, Video, Documents)
-Hiding the last seen
-Adding the audio call
-Adding the video call
-Adding status so that the user can play video games
-workbritto adding watching movies and play games
+5. Hiding the last seen
+6. Adding the audio call
+7. Adding the video call
+8. Adding status so that the user can play video games
+9. workbritto adding watching movies and play games
+10. Amount transfer using whatsup
